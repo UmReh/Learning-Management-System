@@ -139,16 +139,6 @@ MySQL Database
 * ⚡ Fast Data Retrieval
 * 🎯 Role-Based Access Control
 
----
-
-## 📸 Screenshots
-
-> Add your screenshots here
-
-```md
-![Home](./screenshots/home.png)
-![Dashboard](./screenshots/dashboard.png)
-```
 
 ---
 
